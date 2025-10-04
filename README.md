@@ -43,9 +43,8 @@
 ### 📘 Semester 1
 - [ASC](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/ASC)  
 - [FP](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/FP)  
-- [Linear Algebra](https://github.com/user/linear-algebra)  
-- [Mathematical Analysis](https://github.com/user/mathematical-analysis)  
-- [Computational Logic](https://github.com/user/computational-logic)  
+- [Exams](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/ARHIVA EXAMENE) 
+ 
 
 ### 📗 Semester 2
 - [OOP](https://github.com/user/oop)  

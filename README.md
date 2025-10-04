@@ -41,8 +41,8 @@
 💻 A quick look at my academic journey:  
 
 ### 📘 Semester 1
-- [ASC](https://github.com/user/asc)  
-- [FP](https://github.com/user/fp)  
+- [ASC](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/ASC)  
+- [FP](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/FP)  
 - [Linear Algebra](https://github.com/user/linear-algebra)  
 - [Mathematical Analysis](https://github.com/user/mathematical-analysis)  
 - [Computational Logic](https://github.com/user/computational-logic)  

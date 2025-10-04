@@ -57,5 +57,3 @@
 ---
 
 ✨ *Thanks for stopping by! Feel free to check out my repositories and connect with my work 🚀*
-
-✨ *Thanks for visiting my profile! Feel free to check out my projects and connect with me 🚀*

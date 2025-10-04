@@ -43,7 +43,7 @@
 ### 📘 Semester 1
 - [ASC](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/ASC)  
 - [FP](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/FP)  
-- [Exams](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/ARHIVA EXAMENE) 
+- [Exams](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/"ARHIVA EXAMENE") 
  
 
 ### 📗 Semester 2

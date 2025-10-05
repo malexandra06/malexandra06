@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 My Projects  
 
 ✨ Things I’ve been building in my free time:  
 

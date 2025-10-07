@@ -47,7 +47,7 @@
  
 
 ### 📗 Semester 2
-- [OOP](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/Sem2/OOP%lab%10-14)  
+- [OOP](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/Sem2/OOP%20lab%2010-14)  
 - [Graph Algorithmics](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/Sem2/AG)  
 - [Operating Systems](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/Sem2/OS)  
 - [Data Structures](https://github.com/malexandra06/UBB-FMI-Informatica/tree/main/Sem2/SDA)  

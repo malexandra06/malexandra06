@@ -32,7 +32,7 @@
 
 - 🐾 [**Pet Blog Website**](https://github.com/malexandra06/petblog) – A blogging platform dedicated to pets, with stories, tips, and galleries.  
 - 📺 [**Website for TVR Cluj**](https://github.com/user/tvr-cluj) – A responsive, modern site created for the local TVR Cluj station.  
-- 🧬 [**AI Project – Leukemia Stage Detection**](https://github.com/user/ai-project) – Deep learning project focused on medical image classification: identifying leukemia stages from microscopic images.  
+- 🧬 [**AI Project – Leukemia Stage Detection**](https://github.com/malexandra06/Blood-Cells-Classification) – Deep learning project focused on medical image classification: identifying leukemia stages from microscopic images.  
 
 ---
 

@@ -30,10 +30,9 @@
 
 ✨ Things I’ve been building in my free time:  
 
-- 🐾 [**Pet Blog Website**](https://github.com/malexandra06/petblog) – A blogging platform dedicated to pets, with stories, tips, and galleries.  
-- 📺 [**Website for TVR Cluj**](https://github.com/user/tvr-cluj) – A responsive, modern site created for the local TVR Cluj station.  
-- 🧬 [**AI Project – Leukemia Stage Detection**](https://github.com/malexandra06/Blood-Cells-Classification) – Deep learning project focused on medical image classification: identifying leukemia stages from microscopic images.  
-
+- 🐾 [**Pet Blog Website**](https://github.com/malexandra06/pet-blog) – A blogging platform dedicated to pets, with stories, tips, and galleries.    
+- 🧬 [**AI Project – Hematology Clinic**](https://github.com/malexandra06/Blood-Cells-Classification) – fullstack web application for a hematology clinic with a deep learning model focused on medical image classification: identifying leukemia stages from microscopic images.  
+-    [**Detect Secrets in Repo**](https://github.com/malexandra06/workshop-detect-secrets-in-repo-project)- a Python agent-based backend with parallel processing for efficient PII and API key detection
 ---
 
 ## 🎓 University Projects  
